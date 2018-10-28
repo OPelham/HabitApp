@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "383913273954",
+    "firebase_url": "https://habitapp-a0e21.firebaseio.com",
+    "project_id": "habitapp-a0e21",
+    "storage_bucket": "habitapp-a0e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383913273954:android:08effb317ef1804e",
+        "android_client_info": {
+          "package_name": "com.oliverpelham.habitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383913273954-ttd46jrmlln47bf5j0n4thcmf8pf6n98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oliverpelham.habitapp",
+            "certificate_hash": "196fa0264be2a5641c6c08397ae2e2177afd40ab"
+          }
+        },
+        {
+          "client_id": "383913273954-e1scagks31fi9sgdep09eab0dqa4bhll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe2iSkuMCquLdp9-VQW7USZngOTJfLU9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383913273954-e1scagks31fi9sgdep09eab0dqa4bhll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
